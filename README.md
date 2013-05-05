@@ -1,7 +1,8 @@
-[Recline view] providing graphing capabilities using [Flotr2][] graphing library.
+[Recline view][] providing graphing capabilities using [Flotr2][] graphing library.
 
 As a Recline view it is also a standard Backbone view.
 
+[Recline view]: http://reclinejs.com/docs/views.html
 [Flotr2]: http://www.humblesoftware.com/flotr2/
 
 ## Usage
